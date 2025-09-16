@@ -7,3 +7,4 @@
 # attempted to upload npidata_pfile_20250901-20250907.csv
 # attempted to upload RXNATOMARCHIVE.RRF
 # attempted to upload Loinc.csv
+# I manually uploaded these files via github
